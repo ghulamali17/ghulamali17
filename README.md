@@ -6,9 +6,11 @@ I'm a **Frontend Developer** passionate about creating intuitive, dynamic web ap
 ---
 
 ## 🌐 Connect with Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ghulam_.ali) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghulam-ali-8021a1276) 
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/DevGhulamAli) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ghulam_.ali)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghulam-ali-8021a1276)  
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/DevGhulamAli)  
+[![Bluesky](https://img.shields.io/badge/Bluesky-%2300A5E0.svg?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/ghulam-ali.bsky.social)  
+
 
 ---
 
