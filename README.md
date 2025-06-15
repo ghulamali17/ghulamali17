@@ -1,7 +1,11 @@
 # 💫 About Me:
 ## Hi there, I'm Ali! 👋
 
-I'm a **Frontend Developer** passionate about creating intuitive, dynamic web applications. My journey in coding started with **HTML**, **CSS**, and **JavaScript**, and I’m currently deep-diving into **React** to build modern, responsive websites. As I grow, I aim to expand my skill set into **Fullstack Development**, exploring back-end technologies to become a more versatile developer.
+I'm a Full Stack Developer who loves building intuitive and dynamic web applications.
+I started my coding journey with HTML, CSS, and JavaScript, and later got into React and Tailwind CSS to create modern, responsive websites.
+
+Lately, I’ve been diving into the backend with Node.js, Express.js, and MongoDB to build full-stack apps.
+I enjoy learning new technologies and improving my skills to become a more well-rounded developer.
 
 ---
 
