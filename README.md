@@ -1,11 +1,13 @@
 # 💫 About Me:
 ## Hi there, I'm Ali! 👋
 
-I'm a Full Stack Developer who loves building intuitive and dynamic web applications.
-I started my coding journey with HTML, CSS, and JavaScript, and later got into React and Tailwind CSS to create modern, responsive websites.
+I'm a Full Stack Developer and a Senior Computer Science Student at SMI University with a passion for building modern, responsive, and user-friendly web applications.
 
-Lately, I’ve been diving into the backend with Node.js, Express.js, and MongoDB to build full-stack apps.
-I enjoy learning new technologies and improving my skills to become a more well-rounded developer.
+I began my coding journey with HTML, CSS, and JavaScript, then expanded into React and Tailwind CSS to create clean and dynamic front-end interfaces. More recently, I've been working on the backend with Node.js, Express.js, and MongoDB to develop complete, full-stack applications.
+
+Currently, I’m enrolled in the Saylani Mass IT Training Program, focusing on Web & App Development, where I’m applying my skills to real-world projects and constantly learning new technologies.
+
+I love solving problems, writing clean code, and collaborating on impactful tech solutions.
 
 ---
 
