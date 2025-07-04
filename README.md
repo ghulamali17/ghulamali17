@@ -3,6 +3,7 @@ Hi, I'm Ali! 👋 A Senior Computer Science student at SMI University, I’m a d
 
 ## 🛠️ My Skill Set
 I’m proficient in a versatile tech stack, with hands-on experience delivering clean, functional solutions:
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
@@ -18,7 +19,7 @@ I’m proficient in a versatile tech stack, with hands-on experience delivering 
 - **Saylani Mass IT Training (SMIT) Web & App Development Course**: Diving into practical, industry-relevant challenges to level up my development expertise.
 
 ## 🧠 What Drives Me
-I’m all about tackling complex problems with clean, efficient code, staying on top of new tech trends, and continuously sharpening my craft to deliver impactful solutions.
+I’m all about tackling complex problems with clean, efficient code, staying on top of new tech trends, and continuously sharpening my skills to deliver impactful solutions.
 
 ## 🔍 What I’m Seeking
 I’m excited to explore internship or job opportunities, freelance projects, or open-source collaborations where I can contribute my skills and grow as a developer. Got an idea? Let’s talk!
@@ -37,11 +38,7 @@ Reach out to collaborate on innovative projects or discuss opportunities:
 ## 📊 GitHub Stats
 ![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghulamali17&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamali17&layout=compact&theme=radical)
-
----
-
-## 🧑‍💻 Visitor Count
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ghulamali17.ghulamali17)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghulamali17&theme=radical)
 
 ---
 
