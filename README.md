@@ -1,7 +1,5 @@
 # 💫 About Me:
 ## Hi there, I'm Ali! 👋
-# About Me
-
 I'm a Senior Computer Science student at SMI University and a dedicated Frontend Developer with a strong focus on building responsive, scalable, and user-friendly web applications.
 
 ## My Skill Set
