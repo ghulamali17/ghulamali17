@@ -1,13 +1,23 @@
 # 💫 About Me:
 ## Hi there, I'm Ali! 👋
+# About Me
 
-I'm a Full Stack Developer and a Senior Computer Science Student at SMI University with a passion for building modern, responsive, and user-friendly web applications.
+I'm a Senior Computer Science student at SMI University and a dedicated Frontend Developer with a strong focus on building responsive, scalable, and user-friendly web applications.
 
-I began my coding journey with HTML, CSS, and JavaScript, then expanded into React and Tailwind CSS to create clean and dynamic front-end interfaces. More recently, I've been working on the backend with Node.js, Express.js, and MongoDB to develop complete, full-stack applications.
+## My Skill Set
+Proficient in JavaScript, React, Node.js, Express.js, Firebase, Tailwind CSS, and Bootstrap, with hands-on experience delivering functional solutions.
 
-Currently, I’m enrolled in the Saylani Mass IT Training Program, focusing on Web & App Development, where I’m applying my skills to real-world projects and constantly learning new technologies.
+## Current Endeavors
+I’m working as a Frontend Developer Intern at Propmotive, contributing to real-world projects, while also enhancing my expertise through the Saylani Mass IT Training (SMIT) Web & App Development Course, where I engage in practical, industry-relevant challenges.
 
-I love solving problems, writing clean code, and collaborating on impactful tech solutions.
+## What Motivates Me
+I thrive on solving complex problems through clean, efficient code, staying current with emerging technologies, and continuously refining my skills.
+
+## What I’m Seeking
+I’m eager to explore internship/job opportunities, freelance projects, or collaborative tech initiatives where I can contribute meaningfully and grow professionally.
+
+## Let’s Connect
+Reach out to discuss potential opportunities or collaborate on innovative projects!
 
 ---
 
