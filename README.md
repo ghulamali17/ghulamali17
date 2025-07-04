@@ -37,7 +37,8 @@ Reach out to collaborate on innovative projects or discuss opportunities:
 
 ## 📊 GitHub Stats
 ![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghulamali17&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamali17&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamali17&layout=compact&theme=radical)  
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghulamali17&theme=radical)
 
 ---
