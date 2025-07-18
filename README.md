@@ -17,7 +17,8 @@ I’m all about tackling complex problems with clean, efficient code, staying on
 I’m excited to explore internship or job opportunities, freelance projects, or open-source collaborations where I can contribute my skills and grow as a developer. Got an idea? Let’s talk!
 
 ## 🤝 Let’s Connect
-Reach out to collaborate on innovative projects or discuss opportunities:  
+Reach out to collaborate on innovative projects or discuss opportunities:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/ghulam-ali-8021a1276](https://www.linkedin.com/in/ghulam-ali-dev/)) 
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/DevGhulamAli)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ghulam_.ali)   
@@ -34,5 +35,3 @@ Reach out to collaborate on innovative projects or discuss opportunities:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghulamali17&theme=radical)
 
 ---
-
-*Built with ❤️ using [GPRM](https://gprm.itsvg.in)*
